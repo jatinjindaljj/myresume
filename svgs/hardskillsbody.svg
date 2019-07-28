@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="233" height="161.869" viewBox="0 0 233 161.869">
+  <g id="hardskillsbody" transform="translate(1207 -846)">
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="233" height="161.869" transform="translate(-1207 846)" fill="#fff"/>
+    <text id="PROGRAMMING" transform="translate(-1172 872)" font-size="19" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">PROGRAMMING</tspan></text>
+    <text id="C_" data-name="C++" transform="translate(-1189 904.821)" font-size="15" font-family="Rockwell"><tspan x="0" y="0">C++</tspan></text>
+    <text id="JAVA" transform="translate(-1121 897.618)" font-size="15" font-family="Rockwell"><tspan x="0" y="0">JAVA</tspan></text>
+    <text id="PYTHON" transform="translate(-1060 905.622)" font-size="15" font-family="Rockwell"><tspan x="0" y="0">PYTHON</tspan></text>
+    <text id="JAVASCRIPT" transform="translate(-1203 976.016)" font-size="14" font-family="Rockwell"><tspan x="0" y="0">JAVASCRIPT</tspan></text>
+    <text id="WEB_DEVELOPMENT" data-name="WEB DEVELOPMENT" transform="translate(-1194 939.404)" font-size="18" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">WEB DEVELOPMENT</tspan></text>
+    <text id="NODE" transform="translate(-1154 991.869)" font-size="15" font-family="Rockwell"><tspan x="0" y="0">NODE</tspan></text>
+    <text id="HTML" transform="translate(-1113 968.051)" font-size="15" font-family="Rockwell"><tspan x="0" y="0">HTML</tspan></text>
+    <text id="CSS" transform="translate(-1093 992.869)" font-size="15" font-family="Rockwell"><tspan x="0" y="0">CSS</tspan></text>
+    <text id="Angularjs" transform="translate(-1060 977.644)" font-size="19" font-family="Rockwell"><tspan x="0" y="0">Angularjs</tspan></text>
+    <path id="Path_13" data-name="Path 13" d="M194,0" transform="translate(-1193.5 942.876)" fill="none" stroke="#121111" stroke-width="2"/>
+  </g>
+</svg>
