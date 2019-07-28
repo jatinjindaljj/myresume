@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="254.431" height="172.71" viewBox="0 0 254.431 172.71">
+  <g id="softskillhead" transform="translate(1557 -523)">
+    <rect id="soft_skills" data-name="soft skills" width="254.431" height="172.71" transform="translate(-1557 523)" fill="#fff"/>
+    <text id="Soft_Skills-2" data-name="Soft Skills" transform="translate(-1477.784 544)" font-size="20" font-family="Rockwell"><tspan x="0" y="0">Soft Skills</tspan></text>
+    <text id="Empathy" transform="translate(-1462.838 580.936)" font-size="16" font-family="Rockwell"><tspan x="0" y="0">Empathy</tspan></text>
+    <text id="Good_listener" data-name="Good listener" transform="translate(-1484.999 624.792)" font-size="17" font-family="Rockwell"><tspan x="0" y="0">Good listener</tspan></text>
+    <text id="Excellent_story_teller" data-name="Excellent story teller" transform="translate(-1498.569 667.71)" font-size="17" font-family="Rockwell"><tspan x="0" y="0">Excellent story teller</tspan></text>
+    <line id="Line_1" data-name="Line 1" x2="96" transform="translate(-1478.35 550.5)" fill="none" stroke="#1a1515" stroke-width="2"/>
+  </g>
+</svg>

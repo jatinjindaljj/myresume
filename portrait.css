@@ -1,0 +1,282 @@
+
+   
+   
+  
+   
+   @media only screen and (max-width:400px){
+    
+    *{
+
+        margin: 0;
+        padding:0;
+        box-sizing: border-box;
+        
+       }
+       
+     
+      
+
+    nav{
+
+        display: flex;
+        flex-direction: column;
+        /*flex-direction : */
+        position: absolute;
+        z-index: 1;
+        background: palegreen;
+        min-width: 100vw;
+       
+
+
+    }
+    nav>div{
+
+        cursor: pointer;
+        margin:12px 0px 12px 6px; 
+        border-bottom: black 1.5px solid;  
+
+    }
+    .board{
+
+        display: flex;
+        position: relative ;
+        position: relative;
+        z-index: 2;
+        background: white;
+        height: 40px;
+        
+      
+        
+        
+
+
+    }
+
+    .boardtext{
+
+       
+        flex:24;
+        display: flex;
+        align-items: center; 
+        justify-content: center; 
+        text-align: center;  
+        
+        font-size:15px;
+        
+       
+
+    }
+
+    .boardimage{
+
+        
+        min-width: 34.86px;
+        max-width: 34.86px;
+        min-height: 24.72px;
+        max-height: 24.72px;
+        align-self: center;
+        margin-right: 35px;
+        position: absolute;
+        
+        margin-left: 85vw;
+        
+       
+    }
+   
+       .maincontainer{
+   
+           display: flex;
+           flex-direction: column;
+           justify-content: space-around;
+       
+       }
+   
+       .container{
+   
+           display: flex;
+           flex-direction: column;
+           min-height: 75vh;
+          
+        }
+        
+  
+ 
+.chead{
+
+    background: pink;
+    flex:8;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;  
+    font-size: 20px;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    max-height: 30px;
+    min-height: 30px;
+    
+
+}
+
+
+.cbody{
+
+    display: flex;
+    
+    overflow-x: scroll;
+    flex:25;
+
+}
+
+
+ /*  remove flex-direction for landscape mode */
+ .citem{
+
+    min-width: 93vw;
+    display: flex;
+    flex-direction: column;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    
+ }
+
+ 
+.clowerbody{
+
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    
+}
+
+.clowerbody>img{
+
+    align-self: center;
+}
+
+.clickme{
+
+    align-self: center;
+
+}
+
+#badtypography{
+
+    margin-top: 15vh;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+   
+   /*////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+/*
+*{
+
+ margin: 0;
+ padding:0;
+ box-sizing: border-box;
+ 
+}
+
+@media only screen and (max-width:400px){
+
+
+    .maincontainer{
+
+        display: flex;
+        flex-direction: column;
+    
+    }
+
+    .container{
+
+        display: flex;
+        flex-direction: column;
+        
+        
+            
+        
+        }
+}
+
+
+
+.maincontainer{
+
+    display: flex;
+    
+
+}
+
+
+.container{
+
+    
+    display: flex;
+    flex-direction: column;
+    min-width: 50%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+.chead{
+    background: pink;
+    min-height: 10vh;
+    
+
+}
+
+
+.cbody{
+
+    display: flex;
+    background:blue;
+    overflow-x: scroll;
+
+}
+
+.citem{
+
+    min-width: 95vw;
+    
+    border: 3px black solid;
+    display: flex;
+    flex-direction: column;
+
+}
+
+picture{
+
+min-height: 60vh;
+background: white;
+
+
+}
+section{
+
+    background: yellow;
+    min-height: 40vh;
+
+}
+
+
+*/
