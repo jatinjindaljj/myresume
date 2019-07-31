@@ -23,7 +23,7 @@
         /*flex-direction : */
         position: absolute;
         z-index: 1;
-        background: #F5AFF5;
+        background: #FDFFDE;
         min-width: 100vw;
        
 
@@ -32,9 +32,10 @@
     nav>div{
 
         cursor: pointer;
-        margin:6px 6px 6px 6px;
+
         
-        padding: 6px; 
+        padding:6px;
+        border-bottom:0.6px solid black; 
         background: #FDFDE0;
         
         
@@ -45,9 +46,12 @@
         position: relative ;
         position: relative;
         z-index: 2;
-        background: white;
+        background: black;
+        color:#FDFFDE;
+
         height: 40px;
-        
+        border-bottom: 0.5px solid black;
+        border-top: 0.5px solid black;
       
         
         
