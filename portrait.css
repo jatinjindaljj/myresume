@@ -190,7 +190,7 @@
 
 .m1item:nth-child(odd){
 background: black;
-color: bisque;
+color: white;
 }
 
 
@@ -207,7 +207,7 @@ color: bisque;
 
 .m2item:nth-child(EVEN){
 background: black;
-color: bisque;
+color: white;
 }
 
 

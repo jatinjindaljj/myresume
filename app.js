@@ -12,7 +12,7 @@ var linedown = document.getElementById("linedown");
 
 var clicked = 0;
 boardtext.innerHTML = links[1].innerHTML;
-TweenMax.to(nav,0,{y:-210});
+TweenMax.to(nav,0,{y:-230});
 
 for(var i = 0 ; i < screen.length  ; i ++ )
     {
@@ -43,7 +43,7 @@ function rotateandbringdown(){
     }
 
     else{
-        TweenMax.to(nav, 0.3 , {y:-210});
+        TweenMax.to(nav, 0.3 , {y:-230});
        
         TweenMax.to(lineup,0.2,{rotation:0,y:83.5})
         TweenMax.to(linedown,0.2,{rotation:0,y:88.5})
@@ -59,7 +59,7 @@ boardimage.addEventListener('click',rotateandbringdown);
 
 function rotateandbringupshow(event){
 
-    TweenMax.to(nav, 0.3 , {y:-210});
+    TweenMax.to(nav, 0.3 , {y:-230});
 
     TweenMax.to(lineup,0.2,{rotation:0,y:83.5}) ; 
     TweenMax.to(linedown,0.2,{rotation:0,y:88.5}) ;
