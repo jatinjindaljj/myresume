@@ -1,25 +1,17 @@
 var navg = document.getElementsByTagName('nav');
 nav = navg[0];
-
 var links = document.querySelectorAll('nav>div')
-
 var screen = document.querySelectorAll('.screen')
-
 var boardtext = document.querySelector('.boardtext')
-
 var boardimage = document.querySelector('.boardimage')
-
 var board = document.querySelector('.board')
-
-
-
+var lineup = document.getElementById("lineup");
+var linedown = document.getElementById("linedown");
 
 ///// initial start 
 
-
-
+var clicked = 0;
 boardtext.innerHTML = links[1].innerHTML;
-
 TweenMax.to(nav,0,{y:-110});
 
 for(var i = 0 ; i < screen.length  ; i ++ )
@@ -35,21 +27,30 @@ for(var i = 0 ; i < screen.length  ; i ++ )
 
 }
 
-TweenMax.to(boardimage , 0 , {rotation:180});
 
 //////////////////////////////////////
 
 function rotateandbringdown(){
 
-    if(boardimage.style.cssText.split('(')[1].split(',')[0]==-1){
-        TweenMax.to(boardimage , 0.3 , {rotation:0})
+    if(clicked==0){
+        //TweenMax.to(boardimage , 0.3 , {rotation:0})
+        TweenMax.to(lineup,0.2,{rotation:35,y:82})
+        TweenMax.to(linedown,0.2,{rotation:-35,y:89})
+
+         
         TweenMax.to(nav,0.3,{y:board.getBoundingClientRect().height});
+        clicked = 1 ;
     }
 
     else{
         TweenMax.to(nav, 0.3 , {y:-110});
-        TweenMax.to(boardimage , 0.3 , {rotation:180});
+       
+        TweenMax.to(lineup,0.2,{rotation:0,y:83.5})
+        TweenMax.to(linedown,0.2,{rotation:0,y:88.5})
+        clicked = 0 ; 
+    
     }
+    
   }
 
 boardimage.addEventListener('click',rotateandbringdown);
@@ -59,8 +60,12 @@ boardimage.addEventListener('click',rotateandbringdown);
 function rotateandbringupshow(event){
 
     TweenMax.to(nav, 0.3 , {y:-110});
-    TweenMax.to(boardimage , 0.3 , {rotation:180});
+
+    TweenMax.to(lineup,0.2,{rotation:0,y:83.5}) ; 
+    TweenMax.to(linedown,0.2,{rotation:0,y:88.5}) ;
+    
     boardtext.innerHTML = event.target.innerHTML;
+    clicked = 0 ;
 
     for(var i = 0 ; i < screen.length  ; i ++ )
     {

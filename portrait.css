@@ -23,7 +23,7 @@
         /*flex-direction : */
         position: absolute;
         z-index: 1;
-        background: palegreen;
+        background: white;
         min-width: 100vw;
        
 
@@ -32,9 +32,11 @@
     nav>div{
 
         cursor: pointer;
-        margin:12px 0px 12px 6px; 
-        border-bottom: black 1.5px solid;  
-
+        margin:6px 6px 6px 6px;
+        
+        padding: 6px; 
+        background: #FDFDE0;
+        
     }
     .board{
 
@@ -60,8 +62,9 @@
         align-items: center; 
         justify-content: center; 
         text-align: center;  
-        
+    
         font-size:15px;
+      
         
        
 
