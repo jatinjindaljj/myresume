@@ -33,8 +33,11 @@
 
         cursor: pointer;
 
-        
-        padding:6px;
+        margin:3px;
+        padding-top:12px;
+        padding-left : 6px ;
+        padding-right:6px;
+
         border-bottom:0.6px solid black; 
         background: #FDFDE0;
         

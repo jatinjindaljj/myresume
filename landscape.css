@@ -23,7 +23,7 @@
         /*flex-direction : */
         position: absolute;
         z-index: 1;
-        background: palegreen;
+        background: #FDFFDE;
         min-width: 100vw;
        
 
@@ -32,10 +32,16 @@
     nav>div{
 
         cursor: pointer;
-        margin:12px 0px 12px 6px; 
-        border-bottom: black 1.5px solid; 
-      
-    
+
+        margin:3px;
+        padding-top:12px;
+        padding-left : 6px ;
+        padding-right:6px;
+
+        border-bottom:0.6px solid black; 
+        background: #FDFDE0;
+        
+        
     }
     .board{
 
@@ -43,9 +49,12 @@
         position: relative ;
         position: relative;
         z-index: 2;
-        background: white;
+        background: black;
+        color:#FDFFDE;
+
         height: 40px;
-        
+        border-bottom: 0.5px solid black;
+        border-top: 0.5px solid black;
       
         
         
@@ -61,8 +70,9 @@
         align-items: center; 
         justify-content: center; 
         text-align: center;  
-        
+    
         font-size:15px;
+      
         
        
 
@@ -130,19 +140,17 @@
 }
 
 
- /*  remove flex-direction for landscape mode */
  .citem{
 
     min-width: 93vw;
-   display: flex;
+    display: flex;
     
     border-left: 2px solid black;
     border-right: 2px solid black;
-    
+    border-bottom: 2px solid black;
  }
 
  
-
 .clowerbody{
 
     display: flex;
@@ -162,15 +170,66 @@
 
 }
 
-
-
-
 #badtypography{
 
-    margin-left: 20vh;
+    margin-top: 15vh;
 
 }
 
+
+
+.info{
+
+    padding: 3px;
+}
+
+.upperhalf{
+
+    background:#FBF2E5;
+    flex:2;
+}
+
+.lowerhalf{
+
+    background:#E5FBEA;
+    flex: 2;
+
+}
+
+
+
+.m1item{
+    min-width: 93vw;
+    padding: 10px;  
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;  
+    font-size: 30px;
+   
+}
+
+.m1item:nth-child(odd){
+background: black;
+color: white;
+}
+
+
+.m2item{
+    min-width: 93vw;
+    padding: 10px; 
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;  
+    font-size: 30px;
+   
+}
+
+.m2item:nth-child(EVEN){
+background: black;
+color: white;
+}
 
 
 
