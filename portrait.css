@@ -145,7 +145,7 @@
     flex-direction: column;
     border-left: 2px solid black;
     border-right: 2px solid black;
-    
+    border-bottom: 2px solid black;
  }
 
  
@@ -176,8 +176,23 @@
 
 
 
+.info{
 
+    padding: 3px;
+}
 
+.upperhalf{
+
+    background:#FBF2E5;
+    flex:2;
+}
+
+.lowerhalf{
+
+    background:#E5FBEA;
+    flex: 2;
+
+}
 
 
 
@@ -213,6 +228,7 @@ color: white;
 background: black;
 color: white;
 }
+
 
 
 }
