@@ -37,6 +37,7 @@
         padding: 6px; 
         background: #FDFDE0;
         
+        
     }
     .board{
 
@@ -176,7 +177,38 @@
 
 
 
+.m1item{
+    min-width: 93vw;
+    padding: 10px;  
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;  
+    font-size: 30px;
+   
+}
 
+.m1item:nth-child(odd){
+background: black;
+color: bisque;
+}
+
+
+.m2item{
+    min-width: 93vw;
+    padding: 10px; 
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;  
+    font-size: 30px;
+   
+}
+
+.m2item:nth-child(EVEN){
+background: black;
+color: bisque;
+}
 
 
 }
