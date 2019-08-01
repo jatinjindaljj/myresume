@@ -92,7 +92,20 @@ for(var i=0 ; i<links.length ; i++){
     
 
 
+/////////////////////////////////////delete cross /////////////////////
 
+var popup = document.getElementsByTagName('svg')[0];
+var hidder = document.getElementById("hidder");
+function deletepopup(){
+
+
+
+popup.remove();
+hidder.remove();
+
+}
+
+popup.addEventListener("click",deletepopup);
 
 
 

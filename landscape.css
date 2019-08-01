@@ -14,6 +14,26 @@
        }
        
      
+       
+        svg:nth-child(1){
+
+            position: absolute;
+            z-index: 6;
+            min-width: 100vw;
+            margin-top:20vw;
+    
+           }
+              
+     #hidder{
+        position: absolute;
+        background: black;
+        z-index: 5;
+        height: 100vh;
+        width: 100vw;
+    }
+     
+
+       
       
 
     nav{
@@ -235,6 +255,24 @@ color: white;
 
 }
    
+
+@media only screen  and (min-width : 701px) {
+ 
+    *{
+
+        margin: 0;
+        padding:0;
+        box-sizing: border-box;
+        
+       }
+
+       svg:nth-child(1){
+display: none;
+       }
+    
+
+
+}
    /*////////////////////////////////////////////////////////////////////////////////////////////////*/
 
 /*
