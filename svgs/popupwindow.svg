@@ -9,17 +9,20 @@
   </defs>
   <g id="popupwindow" transform="translate(6 449)">
     <rect id="Rectangle_25" data-name="Rectangle 25" width="871.271" height="333.312" transform="translate(-6 -449)" fill="#060606"/>
-    <rect id="NoPath_-_Copy_3_" data-name="NoPath - Copy (3)" width="157" height="111" transform="translate(122.43 -438.162)" fill="url(#pattern)"/>
-    <text id="Desktop" transform="translate(164.455 -402.471)" fill="#121111" font-size="15" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">Desktop</tspan></text>
-    <text id="Under_Construction_" data-name="Under Construction !!!" transform="translate(20.643 -287.533)" fill="#fff" font-size="23" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">Under Construction !!!</tspan></text>
+    <text id="Under_Construction_" data-name="Under Construction !!!" transform="translate(88.643 -280.533)" fill="#fff" font-size="23" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">Under Construction !!!</tspan></text>
     <text id="https:_jatinjindaljj._github.io_myresume_" data-name="https://
               jatinjindaljj.
                                        github.io/
-                                                            myresume/" transform="translate(12 -212.688)" fill="#fff" font-size="20" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">https://</tspan><tspan x="0" y="24" xml:space="preserve">              jatinjindaljj.</tspan><tspan x="0" y="48" xml:space="preserve">                                       github.io/</tspan><tspan x="0" y="72" xml:space="preserve">                                                            myresume/</tspan></text>
-    <line id="Line_20" data-name="Line 20" y2="291.312" transform="translate(480.5 -423.5)" fill="none" stroke="#fffdfd" stroke-width="3"/>
-    <rect id="NoPath_-_Copy_2_" data-name="NoPath - Copy (2)" width="218" height="141" transform="translate(553.777 -405)" fill="url(#pattern-2)"/>
-    <text id="For_Best_Experience" data-name="For Best Experience" transform="translate(511 -228.43)" fill="#fff" font-size="15" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">For Best Experience</tspan></text>
-    <text id="For_Good_Experience" data-name="For Good Experience" transform="translate(662.316 -273.94)" fill="#fff" font-size="15" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">For Good Experience</tspan></text>
-    <text id="View_in_" data-name="View in " transform="translate(633 -413.688)" fill="#fff" font-size="25" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">View in </tspan></text>
+                                                            myresume/" transform="translate(455 -205.688)" fill="#fff" font-size="17" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">https://</tspan><tspan x="0" y="20" xml:space="preserve">              jatinjindaljj.</tspan><tspan x="0" y="40" xml:space="preserve">                                       github.io/</tspan><tspan x="0" y="60" xml:space="preserve">                                                            myresume/</tspan></text>
+    <path id="Path_18" data-name="Path 18" d="M0,0V291.312" transform="translate(389.5 -423.5)" fill="none" stroke="#fffdfd" stroke-width="3"/>
+    <text id="For_Best_Experience" data-name="For Best Experience" transform="translate(514 -265.43)" fill="#fff" font-size="15" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">For Best Experience</tspan></text>
+    <text id="For_Good_Experience" data-name="For Good Experience" transform="translate(675.316 -291.94)" fill="#fff" font-size="15" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">For Good Experience</tspan></text>
+    <text id="View_in_" data-name="View in " transform="translate(416 -413.688)" fill="#fff" font-size="25" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">View in </tspan></text>
+    <rect id="pc" width="157" height="111" transform="translate(124.43 -438.162)" fill="url(#pattern)"/>
+    <g id="Group_7" data-name="Group 7" transform="translate(18 2)">
+      <text id="Desktop_and_Tablets" data-name="Desktop and
+     Tablets" transform="translate(137.455 -403.471)" fill="#121111" font-size="15" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">Desktop and</tspan><tspan x="0" y="17" xml:space="preserve">     Tablets</tspan></text>
+      <rect id="mobile" width="218" height="141" transform="translate(538.777 -432)" fill="url(#pattern-2)"/>
+    </g>
   </g>
 </svg>
