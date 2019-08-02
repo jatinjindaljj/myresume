@@ -1,8 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="76" viewBox="0 0 65 76">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="83" height="94" viewBox="0 0 83 94">
   <defs>
     <pattern id="pattern" width="1" height="1" viewBox="12.756 9.111 50.488 59.033">
       <image preserveAspectRatio="xMidYMid slice" width="76" height="76" xlink:href="data:image/png;base64,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"/>
     </pattern>
+    <filter id="callingicon" x="0" y="0" width="83" height="94" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.949"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
   </defs>
-  <rect id="callingicon" width="65" height="76" fill="url(#pattern)"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#callingicon)">
+    <rect id="callingicon-2" data-name="callingicon" width="65" height="76" transform="translate(8 7)" fill="url(#pattern)"/>
+  </g>
 </svg>
