@@ -256,6 +256,26 @@ background: black;
 color: white;
 }
 
+.singleblock{
+
+    display: flex;
+    
+
+}
+.singleblock>img{
+
+    align-self: flex-start;
+    margin-left: 10vw;
+
+}
+.singleblock>a{
+
+    align-self: center;
+    padding-left: 10vw;
+    
+
+}
+
 
 
 }

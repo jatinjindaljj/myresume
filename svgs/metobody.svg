@@ -6,15 +6,15 @@
   </defs>
   <g id="metobody" transform="translate(7 -204.371)">
     <g id="Component_1_7" data-name="Component 1 – 7" transform="translate(-7 204.371)" clip-path="url(#clip-path)">
-      <rect id="Rectangle_8" data-name="Rectangle 8" width="290.536" height="176.906" fill="#fdffde"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="290.536" height="176.906" fill="none"/>
     </g>
     <text id="PERSONAL_SURVEILLANCE_CAMERA" data-name="PERSONAL SURVEILLANCE CAMERA" transform="translate(35 223.633)" fill="#111010" font-size="12" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">PERSONAL SURVEILLANCE CAMERA</tspan></text>
-    <text id="I_HAVE_MADE_THIS_PROJECT_FOR_HELPING_PEOPLE_WORKING_IN_IT_SECTOR_WHO_ARE_FACING_ARASSMENT_IN_OFFICE_." data-name="I HAVE MADE THIS PROJECT 
+    <text id="I_HAVE_MADE_THIS_PROJECT_FOR_HELPING_PEOPLE_WORKING_IN_IT_SECTOR_WHO_ARE_FACING_HARASSMENT_IN_OFFICE_." data-name="I HAVE MADE THIS PROJECT 
 FOR HELPING PEOPLE WORKING 
 IN IT SECTOR WHO ARE 
-FACING ARASSMENT IN 
-OFFICE  ." transform="translate(17 247.598)" fill="#0c0b0b" font-size="14" font-family="SourceCodePro-Regular, Source Code Pro"><tspan x="0" y="14">I HAVE MADE THIS PROJECT </tspan><tspan x="0" y="32">FOR HELPING PEOPLE WORKING </tspan><tspan x="0" y="50">IN IT SECTOR WHO ARE </tspan><tspan x="0" y="68">FACING ARASSMENT IN </tspan><tspan x="0" y="86" xml:space="preserve">OFFICE  .</tspan></text>
+FACING HARASSMENT IN 
+OFFICE  ." transform="translate(17 247.598)" fill="#0c0b0b" font-size="14" font-family="SourceCodePro-Regular, Source Code Pro"><tspan x="0" y="14">I HAVE MADE THIS PROJECT </tspan><tspan x="0" y="32">FOR HELPING PEOPLE WORKING </tspan><tspan x="0" y="50">IN IT SECTOR WHO ARE </tspan><tspan x="0" y="68">FACING HARASSMENT IN </tspan><tspan x="0" y="86" xml:space="preserve">OFFICE  .</tspan></text>
     <text id="SPECIAL_FEATURE_:-_YOU_DON_T_NEED_A_CAMERA_" data-name="SPECIAL FEATURE :-  YOU DON&apos;T NEED A CAMERA !!!" transform="translate(18 361.856)" fill="#0c0a0a" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" xml:space="preserve">SPECIAL FEATURE :-  </tspan><tspan y="0" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600">YOU DON&apos;T NEED A CAMERA !!!</tspan></text>
-    <path id="Path_5" data-name="Path 5" d="M31.131-.41H239.211" transform="translate(3 228.633)" fill="none" stroke="#121315" stroke-width="1.5"/>
+    <path id="Path_5" data-name="Path 5" d="M31.131-.41H239.211" transform="translate(3 228.633)" fill="rgba(0,0,0,0)" stroke="#121315" stroke-width="1.5"/>
   </g>
 </svg>

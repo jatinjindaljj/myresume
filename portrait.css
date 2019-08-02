@@ -250,7 +250,34 @@ background: black;
 color: white;
 }
 
+.singlecontainer{
 
+padding-top:20px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+
+.singleblock{
+
+    display: flex;
+    
+
+}
+.singleblock>img{
+
+    align-self: flex-start;
+    margin-left: 10vw;
+
+}
+.singleblock>a{
+
+    align-self: center;
+    padding-left: 10vw;
+    
+
+}
 
 }
 
